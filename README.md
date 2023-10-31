@@ -1,4 +1,4 @@
-# My Streamlit App
+# Hackathon 2023 - Base app for quick start
 
 This is a Streamlit app for our Hackathon project.
 

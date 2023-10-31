@@ -28,7 +28,11 @@ pip install -r requirements.txt
 ```
 
 **IMPORTANT NOTE**:
+
 create a .env file and add these to line
+```
+
+```
 OPENAI_API_KEY = your api key
 OPENAI_API_BASE= base Url
 

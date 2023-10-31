@@ -27,6 +27,12 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+**IMPORTANT NOTE**:
+create a .env file and add these to line
+OPENAI_API_KEY = your api key
+OPENAI_API_BASE= base Url
+
+
 5. **Run the App**:
 ```
 streamlit run test.py

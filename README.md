@@ -8,7 +8,7 @@ This is a Streamlit app for our Hackathon project.
 
 2. **Setup Virtual Environment**:
 ```
-python -m venv venv
+python3 -m venv venv
 ```
 
 
